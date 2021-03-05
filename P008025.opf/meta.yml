@@ -1,15 +1,16 @@
-id: opecha:P008025
+id: P008025
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W22035
   title: ཚ་བ་མདའ་རྫོང་།
-  volume:
+  author: ''
+  volumes:
     be6916a3dced45f9b2b623228fe6ebf3:
       image_group_id: I1KG18057
       title: Volume 1 of tsha ba mda' rdzong /
       volume_number: 1
       total_pages: 226
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཚ་བ་མདའ་རྫོང་།
   author: ''
